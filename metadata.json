@@ -1,0 +1,6 @@
+{
+  "name": "Nourish AI",
+  "description": "A simple, mobile-friendly household food waste reduction and food label explainer system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
